@@ -1,0 +1,2 @@
+CMakeLists.txt not found in C:\Users\joaoc\Google Drive\2º Periodo\Laboratório de Computação II\Praticas\Pratica 1\Aula01Exe02
+Environment (MinGW/Cygwin) is not selected

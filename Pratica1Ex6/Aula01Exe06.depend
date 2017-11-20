@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502048918 source:c:\users\wesle\documents\aulas\laboratóriodecomputaçãoii\programasaula01\aula01exe06\main.c
+	<stdio.h>
+	<stdlib.h>
+
