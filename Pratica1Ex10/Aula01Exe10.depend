@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501873234 source:c:\users\wesle\documents\aulas\laboratóriodecomputaçãoii\programasaula01\aula01exe10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
